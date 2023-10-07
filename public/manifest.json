@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "YT2MP3",
+  "name": "Convert YouTube videos to MP3",
   "icons": [
     {
       "src": "favicon.ico",
